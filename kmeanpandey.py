@@ -96,6 +96,6 @@ st.sidebar.title("👨‍💻 Developer")
 
 st.sidebar.write("**Name:** Richeek Pandey")
 
-st.sidebar.markdown("[🔗 LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)")
+st.sidebar.markdown("[ www.linkedin.com/in/richeek-pandey-9954783a9]")
 
-st.sidebar.markdown("[💻 GitHub](https://github.com/YOUR-GITHUB-USERNAME)")
+st.sidebar.markdown("[💻 GitHub](https://github.com/richeekpandey07)")
