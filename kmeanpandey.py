@@ -114,8 +114,8 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("🌸 Iris Flower Clustering using K-Means")
-st.markdown("Clustering Iris flowers using **Petal Length** and **Petal Width**.")
+# st.title("🌸 Iris Flower Clustering using K-Means")
+# st.markdown("Clustering Iris flowers using **Petal Length** and **Petal Width**.")
 st.markdown("""
 <h1 style='text-align:center;
 color:white;
