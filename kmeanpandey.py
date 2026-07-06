@@ -88,14 +88,14 @@ ax2.set_title("Elbow Plot")
 st.pyplot(fig2)
 
 st.success("Optimal value of K from the elbow plot is approximately 3.")
-st.markdown("---")
-st.markdown("""
-***CONTACT THE DEVELOPER---***
-
-👨‍💻 **Developed By:** RICHEEK_PANDEY
 
 
-🔗 LinkedIn: www.linkedin.com/in/richeek-pandey-9954783a9
+import streamlit as st
 
-💻 GitHub: https://github.com/richeekpandey07
-""")
+st.sidebar.title("👨‍💻 Developer")
+
+st.sidebar.write("**Name:** Richeek Pandey")
+
+st.sidebar.markdown("[🔗 LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)")
+
+st.sidebar.markdown("[💻 GitHub](https://github.com/YOUR-GITHUB-USERNAME)")
