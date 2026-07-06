@@ -88,3 +88,14 @@ ax2.set_title("Elbow Plot")
 st.pyplot(fig2)
 
 st.success("Optimal value of K from the elbow plot is approximately 3.")
+st.markdown("---")
+st.markdown("""
+***CONTACT THE DEVELOPER---***
+
+👨‍💻 **Developed By:** RICHEEK_PANDEY
+
+
+🔗 LinkedIn: www.linkedin.com/in/richeek-pandey-9954783a9
+
+💻 GitHub: https://github.com/richeekpandey07
+""")
