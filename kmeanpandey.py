@@ -116,6 +116,15 @@ st.set_page_config(
 
 st.title("🌸 Iris Flower Clustering using K-Means")
 st.markdown("Clustering Iris flowers using **Petal Length** and **Petal Width**.")
+st.markdown("""
+<h1 style='text-align:center;
+color:white;
+background:linear-gradient(90deg,#6a11cb,#2575fc);
+padding:18px;
+border-radius:15px;'>
+🌸 Iris Flower Clustering using K-Means
+</h1>
+""", unsafe_allow_html=True)
 
 # -------------------- Load Dataset --------------------
 iris = load_iris()
